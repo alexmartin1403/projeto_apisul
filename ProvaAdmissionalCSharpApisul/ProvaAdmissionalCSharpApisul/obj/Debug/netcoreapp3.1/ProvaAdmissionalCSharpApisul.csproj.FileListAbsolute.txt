@@ -1,0 +1,15 @@
+C:\Users\alexm\source\repos\ProvaAdmissionalCSharpApisul\ProvaAdmissionalCSharpApisul\bin\Debug\netcoreapp3.1\ProvaAdmissionalCSharpApisul.exe
+C:\Users\alexm\source\repos\ProvaAdmissionalCSharpApisul\ProvaAdmissionalCSharpApisul\bin\Debug\netcoreapp3.1\ProvaAdmissionalCSharpApisul.deps.json
+C:\Users\alexm\source\repos\ProvaAdmissionalCSharpApisul\ProvaAdmissionalCSharpApisul\bin\Debug\netcoreapp3.1\ProvaAdmissionalCSharpApisul.runtimeconfig.json
+C:\Users\alexm\source\repos\ProvaAdmissionalCSharpApisul\ProvaAdmissionalCSharpApisul\bin\Debug\netcoreapp3.1\ProvaAdmissionalCSharpApisul.runtimeconfig.dev.json
+C:\Users\alexm\source\repos\ProvaAdmissionalCSharpApisul\ProvaAdmissionalCSharpApisul\bin\Debug\netcoreapp3.1\ProvaAdmissionalCSharpApisul.dll
+C:\Users\alexm\source\repos\ProvaAdmissionalCSharpApisul\ProvaAdmissionalCSharpApisul\bin\Debug\netcoreapp3.1\ProvaAdmissionalCSharpApisul.pdb
+C:\Users\alexm\source\repos\ProvaAdmissionalCSharpApisul\ProvaAdmissionalCSharpApisul\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\alexm\source\repos\ProvaAdmissionalCSharpApisul\ProvaAdmissionalCSharpApisul\obj\Debug\netcoreapp3.1\ProvaAdmissionalCSharpApisul.csprojAssemblyReference.cache
+C:\Users\alexm\source\repos\ProvaAdmissionalCSharpApisul\ProvaAdmissionalCSharpApisul\obj\Debug\netcoreapp3.1\ProvaAdmissionalCSharpApisul.AssemblyInfoInputs.cache
+C:\Users\alexm\source\repos\ProvaAdmissionalCSharpApisul\ProvaAdmissionalCSharpApisul\obj\Debug\netcoreapp3.1\ProvaAdmissionalCSharpApisul.AssemblyInfo.cs
+C:\Users\alexm\source\repos\ProvaAdmissionalCSharpApisul\ProvaAdmissionalCSharpApisul\obj\Debug\netcoreapp3.1\ProvaAdmissionalCSharpApisul.csproj.CoreCompileInputs.cache
+C:\Users\alexm\source\repos\ProvaAdmissionalCSharpApisul\ProvaAdmissionalCSharpApisul\obj\Debug\netcoreapp3.1\ProvaAdmissionalCSharpApisul.csproj.CopyComplete
+C:\Users\alexm\source\repos\ProvaAdmissionalCSharpApisul\ProvaAdmissionalCSharpApisul\obj\Debug\netcoreapp3.1\ProvaAdmissionalCSharpApisul.dll
+C:\Users\alexm\source\repos\ProvaAdmissionalCSharpApisul\ProvaAdmissionalCSharpApisul\obj\Debug\netcoreapp3.1\ProvaAdmissionalCSharpApisul.pdb
+C:\Users\alexm\source\repos\ProvaAdmissionalCSharpApisul\ProvaAdmissionalCSharpApisul\obj\Debug\netcoreapp3.1\ProvaAdmissionalCSharpApisul.genruntimeconfig.cache

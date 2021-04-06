@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UpbWwtOb9lQiUoM6scVr5fOhf/WLplLFrf72PcFPQ6+KqQBRfSPSxNgDNJHK/Av2EJVLcpB0MsMVOBu2GonEdw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alexm\\source\\repos\\ProvaAdmissionalCSharpApisul\\ProvaAdmissionalCSharpApisul\\ProvaAdmissionalCSharpApisul.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alexm\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
